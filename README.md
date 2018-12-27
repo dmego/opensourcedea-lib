@@ -4,6 +4,10 @@ Open Source Data Envelopment Analysis LIB
 
 - 2018-12-28-log: Initialized as Maven project
 
+## The documentation of the code for the OSDEA-CODE library
+
+Online URL: https://dmego.me/opensourcedea-lib/
+
 ## How To Use It In Maven Projects
 
 >Step 1. Add the JitPack repository to your build file
