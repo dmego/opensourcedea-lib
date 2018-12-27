@@ -23,7 +23,7 @@ Open Source Data Envelopment Analysis LIB
 <dependency>
     <groupId>com.github.dmego</groupId>
     <artifactId>opensourcedea-lib</artifactId>
-    <version>Tag</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
